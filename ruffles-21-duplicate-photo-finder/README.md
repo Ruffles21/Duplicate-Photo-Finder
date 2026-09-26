@@ -1,0 +1,3 @@
+# ruffles_21’s Duplicate Photo Finder
+
+A local Windows app for finding exact duplicate photos and videos and reviewing visually similar media. Scan in Exact, Similar, or both modes; compare previews, protect the copy you want to keep, and move selected verified duplicates to the Recycle Bin. Includes search, filters, pause/resume, and CSV/JSON reports. Similar matches are review-only, and media previews depend on Windows codecs. Built with C# and WPF: use the .NET 8 SDK on Windows and run `./build.ps1` to build and test. See the [user guide](docs/USER_GUIDE.md) or [GitHub setup guide](docs/GITHUB_SETUP.md) for details.

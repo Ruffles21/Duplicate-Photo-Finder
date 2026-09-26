@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net8.0-windows</TargetFramework>
+        <UseWPF>true</UseWPF>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>disable</ImplicitUsings>
+        <AssemblyName>Ruffles21.DuplicatePhotoFinder</AssemblyName>
+        <Product>ruffles_21’s Duplicate Photo Finder</Product>
+        <Title>ruffles_21’s Duplicate Photo Finder</Title>
+        <Company>ruffles_21</Company>
+        <Description>Find exact duplicates and review similar photos and videos.</Description>
+        <Version>1.2.1</Version>
+    </PropertyGroup>
+</Project>
